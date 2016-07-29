@@ -42,6 +42,7 @@ Made with Electron.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [N1](https://github.com/nylas/N1) - Extensible email client.
 - [Brave](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [Textile](https://github.com/matikbird/textiled) - Write and sync your work.
 
 ###### Other
 
